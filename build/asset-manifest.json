@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hawklutz911/Personal_Blog.git/static/js/main.ec622dc5.chunk.js",
+    "main.js.map": "/hawklutz911/Personal_Blog.git/static/js/main.ec622dc5.chunk.js.map",
+    "runtime-main.js": "/hawklutz911/Personal_Blog.git/static/js/runtime-main.df9a48f9.js",
+    "runtime-main.js.map": "/hawklutz911/Personal_Blog.git/static/js/runtime-main.df9a48f9.js.map",
+    "static/js/2.bca92c57.chunk.js": "/hawklutz911/Personal_Blog.git/static/js/2.bca92c57.chunk.js",
+    "static/js/2.bca92c57.chunk.js.map": "/hawklutz911/Personal_Blog.git/static/js/2.bca92c57.chunk.js.map",
+    "index.html": "/hawklutz911/Personal_Blog.git/index.html",
+    "static/js/2.bca92c57.chunk.js.LICENSE.txt": "/hawklutz911/Personal_Blog.git/static/js/2.bca92c57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df9a48f9.js",
+    "static/js/2.bca92c57.chunk.js",
+    "static/js/main.ec622dc5.chunk.js"
+  ]
+}
