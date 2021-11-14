@@ -10,13 +10,13 @@ export default class extends Component {
             <div className="layout-wrapper">
                 <HeadMetadata
                     title="About Me | Coding Blog"
-                    metaDescription="Walter Lutsyk is a full stack software developer that also writes about philosophy, health and nutrition"
+                    metaDescription="Walter Lutsyk is a beginner web developer that also writes about philosophy, health and nutrition"
                 />
                 <Header />
                 <div className="about-container">
                     <div className="about-section">
                         <h1>About Me</h1>
-                        <p>I’m Nick major, a full stack software developer and technical writer.</p>
+                        <p>I’m Walter Lutsyk, a beginner web developer and technical writer.</p>
                         <p>I started this website as a place to document everything I learned while going through a career change. I learn in public and write about everything I know.</p>
                     </div>
                     <div className="about-section">

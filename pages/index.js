@@ -4,6 +4,7 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 import HeadMetadata from "../components/headMetadata"
 
+
 import getFiveNewestPosts from "../api/getFiveNewestPosts"
 
 export default class extends Component {

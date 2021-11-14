@@ -16,15 +16,14 @@ export default class extends Component {
                 <div className="contact-container">
                     <div className="contact-section">
                         <h1>Contact</h1>
-                        <p>Hi, I’m Walter, a full stack software engineer based out of rural Wisconsin. I write about modern JavaScript and build coding courses that show people how to build real world applications.</p>
-                        <p>If you have any comments, ideas, critiques, or you just want to say hi, don’t hesitate to send me an email at nick@coderrocketfuel.com!</p>
+                        <p>Hi, I’m Walter, a beginner web developer based out of Calgary, Alberta. I write about modern JavaScript and build coding courses that show people how to build real world applications.</p>
+                        <p>If you have any comments, ideas, critiques, or you just want to say hi, don’t hesitate to send me an email at waltlutsyk@gmail.com!</p>
                     </div>
                     <div className="contact-section">
                         <h2>Around the Web</h2>
                         <ul>
-                            <li><strong>Email</strong>: nick@coderrocketfuel.com</li>
+                            <li><strong>Email</strong>: waltlutsyk@gmail.com</li>
                             <li><strong>GitHub</strong>: <a href="https://github.com/coder-rocket-fuel">Coder Rocket Fuel</a></li>
-                            <li><strong>Twitter</strong>: <a href="https://twitter.com/CoderRocketFuel">Coder Rocket Fuel Twitter Page</a></li>
                         </ul>
                     </div>
                 </div>
